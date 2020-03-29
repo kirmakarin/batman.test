@@ -15,7 +15,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding-top: 40px;
-    margin-bottom: 40%; 
+    margin-bottom: 40%;
 }
 .logo{
     font-style: normal;
@@ -101,7 +101,7 @@ body {
 }
 .play{
     display: flex;
-    align-items: center; 
+    align-items: center;
     font-size: 16px;
     line-height: 19px;
     color: #FFFFFF;
@@ -110,15 +110,15 @@ body {
 .play:before{
     content:"";
     width: 30px;
-    height: 30px; 
-    background-image: url(../img/play.svg); 
+    height: 30px;
+    background-image: url(../img/play.svg);
     background-repeat: no-repeat;
-    background-size: 100%;  
+    background-size: 100%;
     margin-right: 15px;
 }
 .more{
     display: flex;
-    align-items: center; 
+    align-items: center;
     font-size: 16px;
     line-height: 19px;
     color: #FFFFFF;
@@ -127,10 +127,10 @@ body {
 .more:after{
     content:"";
     width: 30px;
-    height: 30px; 
-    background-image: url(../img/play.svg); 
+    height: 30px;
+    background-image: url(../img/play.svg);
     background-repeat: no-repeat;
-    background-size: 100%;  
+    background-size: 100%;
     margin-left: 15px;
     transform: rotate(90deg );
 }
@@ -173,7 +173,7 @@ body {
     line-height: 150%;
 }
 .full-info{
-   flex: 0.97;  
+   flex: 0.97;
 }
 .tabs{
     display: flex;
